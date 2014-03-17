@@ -2,9 +2,9 @@
   "name": "sudden-death",
   "main": "./lib/sudden-death",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "> sudden death <",
   "activationEvents": ["sudden-death:convert"],
-  "repository": "https://github.com/atom/sudden-death",
+  "repository": "https://github.com/fukayatsu/atom-sudden-death",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
